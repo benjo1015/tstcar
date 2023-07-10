@@ -1,0 +1,1542 @@
+[
+    {
+      "name": "Rhumba",
+      "category": "Latin",
+      "description": "is considered by many to be the sexiest of the ballroom dances,  is a genre of ballroom music and dance that appeared in the East Coast of the United States during the 1930s.  the international style was derived from studies of dance in Cuba in the pre-revolutionary period. ",
+      "imageUrl": "https://th.bing.com/th/id/R.e3677efc687b85194b0a0da96a21d4ee?rik=x4qnGWWAczHYhg&pid=ImgRaw&r=0",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Basic Movement",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Alemana",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Fan",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Hockey Stick",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Proggressive walks Forward",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Proggressive walks Backward",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Top",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Opening Out Movement",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Side Step",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Closed Hip Twist",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Cucarachas",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Hand to Hand",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Spot Turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Alternative Basic Movement",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Kiki Walks",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Sliding Doors",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Fencing",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Three Threes",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Advanced Hip Twists",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Synchopated Cuban Rock",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Top",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Continuous Hip Twist",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Circular Hip Twist",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "ChaChaCha",
+      "category": "Latin",
+      "description": "originated in Cuba in the early 1950s, The name \"Cha Cha Cha\" is onomatopoetic, derived from the shuffling sound of the dancers' feet. this dance style is derived from the Rumba and the Mambo. ",
+      "imageUrl": "https://th.bing.com/th/id/R.4383c3b24a56da530d5c5adb3543644f?rik=5AsB1l2PFMi%2fyw&pid=ImgRaw&r=0",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Basic Movement",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Alemana",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Fan",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Hockey Stick",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Three ChaChaCha",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Top",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Opening Out Movement",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Closed Hip Twist",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Hand to Hand",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Spot Turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Time Step",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "New York",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Shoulder to Shoulder",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Top",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Opening Out from Reverse Top",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Aida",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Spiral",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Hip Twists",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Rope Spinning",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Advanced Hip Twists",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Cross Basic",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Cuban Breaks",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Turkish Towel",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Sweetheart",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Follow My Leader",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Chasse to the side",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Compact Chasse",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "RF Forward Lock",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "LF Backward Lock",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Split Cuban Break Chasse",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Forward or Backward Runs",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Ronde Chasse",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Hip Twist Chasse",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Slip Chasse",
+          "description": ""
+        },
+        {
+          "type": "Types of Chasse",
+          "name": "Runaway Chasse",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Jive",
+      "category": "Latin",
+      "description": "originated in the United States from African Americans in the early 1930s, popularized in the 1930s by the publication of a dictionary by Cab Calloway, the famous jazz bandleader and singer.  \"jive\" was an expression denoting glib or foolish talk. in 1940s \"swing\" became the most common word for the dance, and the term \"jive\" was adopted in the UK. Variations in technique led to styles such as boogie-woogie and swing boogie, with \"jive\" gradually emerging as the generic term in the UK.",
+      "imageUrl": "https://th.bing.com/th/id/R.ab93db7668703cd3fd672b46a7204eff?rik=8c2RiDG%2fKsRkjg&pid=ImgRaw&r=0",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Basic In Place",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Fallaway Rock",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Fallaway Throwaway",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Link",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Change of Places Right to Left",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Change of Places Left to Right",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Change of Hands behind the back",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Hip Bump",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "American Spin",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "The Walks",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Stop and Go",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Mooch",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Whip",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Throwaway Whip",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Whip",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Windmill",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Spanish Arms",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Rolling of the arm",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Simple Spin",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Miami Special",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Overturned Fallaway Throwaway",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Over Change of places Left to Right",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Break",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Curly Whip",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Shoulder Spin",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Toe Heel Swivels",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Chugging",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Chicken Walks",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Catapult",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Stalking Walks",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Samba",
+      "category": "Latin",
+      "description": " as a musical genre began in the 1910s, Samba was modernly structured as a musical genre only in the late 1920s. samba has achieved major projection throughout Brazil and has become one of the main symbols of Brazilian national identity.",
+      "imageUrl": "https://th.bing.com/th/id/OIP.Mcw2rUL8I96AkagV0HxGPwHaEK?pid=ImgDet&rs=1",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Basic",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Reverse Basic",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Side Basic",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Progressive Basic",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Whisk",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Samba Walks",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Side Samba Walks",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Stationary Samba Walks",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Travelling Bota Fogos Forward",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Criss Cross Bota Fogos",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Shadow Bota Fogos",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Travelling Bota Fogos Back",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Bota Fogos to PP and CPP",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Criss Cross Voltas",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Shadow Travelling Voltas",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Solo Spot Voltas",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Continuous Solo Spot Voltas",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Corta Jaca",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Closed Rocks",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Foot Change 1 (Closed to Shadow)",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Foot Change 2 (Shadow to Closed)",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Foot Change 3 (PP or CPP to Shadow)",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Foot Change 4 (Shadow to PP or CPP)",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Rocks",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Back Rocks",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Plait",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Rolling of the Arm",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Argentine Crosses",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Maypole",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Shadow Circular Voltas",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Foot Change 5 (PP or CPP to Shadow)",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Contra Bota Fogos",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Roundabout",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Roll",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Reverse Roll",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Promenade and Counter Promenade Runs",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Three Step Turn",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Samba Locks",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Cruzados Walks and Locks",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Foot Change 6 (PP or CPP to Contra Position)",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Foot Change 7 (Contra Position to PP or CPP)",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Paso Doble",
+      "category": "Latin",
+      "description": " is a fast-paced Spanish military march used by infantry troops. Its speed allowed troops to give 120 steps per minute.  This march gave rise to a traditional Spanish dance, a musical genre including both voice and instruments, and a genre of instrumental music often played during bullfight. ",
+      "imageUrl": "https://th.bing.com/th/id/R.c09e178cb4b63c69706d5e07542f0916?rik=qsjG%2bNUuL9Tytg&pid=ImgRaw&r=0",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Sur Place",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Basic Forward",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Basic Backward",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Chasse to Right",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Chasse to Left",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Drag",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Promenade Link",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Promenade",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Ecart",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Seperation",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Attack",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Huit",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Sixteen",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Promenade & Counter Promenade",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Grand Circle",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Open Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "La Passe",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Banderillas",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Twist Turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Fallaway Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Coup de Pique",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Left foot Variation",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Syncopated Chasse to Right",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Spanish Lines",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Flamenco Taps",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Syncopated Separation",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Travelling Spins from Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Travalling Spins from Counter Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Fregolina",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "The Twists",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Chasse Cape",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Waltz",
+      "category": "Standard Ballroom",
+      "description": " The term \"Waltz\" originates from the old German word \"walzen\" which means to roll, turn, or to glide. Essentially this dance is all about gliding in a lively or conspicuous manner (to advance easily and successfully).As early as the seventeenth century, Waltzes were played in the ballrooms of the Habsburg court, one of the most influential and distinguished royal houses of Europe. ",
+      "imageUrl": "https://th.bing.com/th/id/OIP.TCyaphcxFWXcRsFQg-EvmgHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.65&pid=1.7",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "RF Closed Change",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "LF Closed Change",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Spin Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Whisk",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Chasse from Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Closed Impetus",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Hesitation Change",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Outside Change",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Reverse Corte",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Back Whisk",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Basic weave",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Double Reverse Spin",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Reverse Pivot",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Back Lock",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Progressive Chasse to Right",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Weave from Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Closed Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Impetus",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Cross Hesitation",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Wing",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Outside Spin",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Turning Lock to L",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Drag Hesitation",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Left Whisk",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Contra Check",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Closed wing",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Turning Lock to Right",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Fallaway Reverse & Slip Pivot",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Hover Corte",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Tango",
+      "category": "Standard Ballroom",
+      "description": " Tango is earthy and dramatic. Although walking movements dominate, Tango walks, having a \"stalking\" or \"sneaking\" character, are unlike the walks of other Ballroom dances. Movements are sometimes slow and slithery, and other times sharp and stacatto, such as a quick foot flick or a sharp head snap to promenade position. In the early 1900's, a less vulgar form of tango was exported to France, where it was further refined and quickly gained popularity with the Parisian high society.",
+      "imageUrl": "https://www.wikidancesport.com/Attachments/dances/Tango/9e8882021abea7a42c8a8ad9b84a2fa8.jpg",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Left Foot Walk",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Right Foot Walk",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Progressive Side Step",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Point to PP",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Progressive Link",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Closed Promenade",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Rock Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Open Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Back Corte",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Open Promenade",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Progressive Side Step Reverse turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Left Foot Rock",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Right Foot Rock",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Twist Turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Promenade turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Promenade Link",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Four Step",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Back Open Promenade",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Outside Swivel",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Outside Swivel",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Fallaway Promenade",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Four Step Change",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Brush Tap",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Fallaway Four Step",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Oversway",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Basic Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "The Chase",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Fallaway Reverse & Slip Pivot",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Five Step",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Overtuned Five Step",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Contra Check",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "QuickStep",
+      "category": "Standard Ballroom",
+      "description": " This dance might be termed the \"joy\" dance of modern dancing. While the basic figures are quite simple, the tempo of the music and the whole character of the dance seem to invite a carefree interpretation of its bright rhythm. The Quickstep was originally a march that became popular around the year 1850. It was mainly used to celebrate Presidents, the military, Exhibitions, Regiments, Heroes, etc. It was basically used as a type of propaganda and morale music as well.",
+      "imageUrl": "https://www.wikidancesport.com/Attachments/dances/Quickstep/382926e386b7c33b1794fdb9807a89c1.jpg",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Quarter Turn to Right",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Turn with Hesitation",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Pivot Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Spin Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Progressive Chasse",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Chasse Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Forward Lock",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Closed Impetus",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Back Lock",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Reverse Pivot",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Progressive Chasse to Right",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Tipple Chasse to Right",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Running Finish",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Double Reverse Spin",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Cross Chasse",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Change of Direction",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Quick Open Reverse",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Fishtail",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Running Right Turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Four Quick Run",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "V6",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Closed Telemark",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Cross Swivel",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Six Quick Run",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Rumba Cross",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Tipsy to Right",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Tipsy to Left",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Hover Corte",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Foxtrot",
+      "category": "Standard Ballroom",
+      "description": "The Foxtrot is a smooth, progressive dance characterized by long, continuous flowing movements across the dance floor. It is danced to big band (usually vocal) music. The dance is similar in its look to Waltz, although the rhythm is in a 4/4 time signature instead of 3/4. Developed in the 1910s, the Foxtrot reached its height of popularity in the 1930s and remains practiced today.",
+      "imageUrl": "https://www.wikidancesport.com/Attachments/dances/Foxtrot/2553.jpg",
+      "danceSteps": [
+        {
+          "type": "Pre Bronze",
+          "name": "Feather Step",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Three Step",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Natural Turn",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Reverse Turn & Feather Finish",
+          "description": ""
+        },
+        {
+          "type": "Pre Bronze",
+          "name": "Closed Impetus & Feather Finish",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Weave",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Change of Direction",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Basic Weave",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Closed Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Feather Ending",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Top Spin",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Hover Feather",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Hover Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Natural Telemark",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Hover Cross",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Natural Turn",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Outside Swivel",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Open Impetus",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Weave from Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Weave",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Twist Turn",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Twist Turn with Weave Ending",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Twist Turn with Closed Impetus & Feather",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Twist Turn with Open Impetus ending",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Curved Feather to Back Feather",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Zig Zag from Promenade Position",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Fallaway Reverse & Slip Pivot",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Hover Telemark",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Bounce Fallaway with Weave Ending",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Viennese Waltz",
+      "category": "Standard Ballroom",
+      "description": "The Viennese Waltz is a genre of Ballroom Dance. It is actually the original form of the Waltz. It's the oldest of all Ballroom dances, emerging in the second half of the 18th century influenced by German and Austrian dance styles. The Viennese Waltz was quite the scandalous dance style when it first emerged. Not only were ankles visible from the ladies, but both men and women were in dance hold for the very first time! However it later gained acceptance and even popularity amongst the upper class. This dance style differs from the Waltz mainly in its speed. The Viennese Waltz has about 180 beats to the minute whereas the Waltz has only about 90.",
+      "imageUrl": "https://th.bing.com/th/id/R.ad04a35c75805f093d117a7622eab09a?rik=8tnWjZxcVdE4SA&pid=ImgRaw&r=0",
+      "danceSteps": [
+        {
+          "type": "Bronze",
+          "name": "Reverse Turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Natural Turn",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Forward Change, Natural to Reverse",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Forward Change, Reverse to Natural",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Backward Change, Natural to Revese",
+          "description": ""
+        },
+        {
+          "type": "Bronze",
+          "name": "Backward Change, Reverse to Natural",
+          "description": ""
+        },
+        {
+          "type": "Silver",
+          "name": "Reverse Fleckerl",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Natural Fleckerl",
+          "description": ""
+        },
+        {
+          "type": "Gold",
+          "name": "Contra Check",
+          "description": ""
+        }
+      ]
+    }
+  ]
