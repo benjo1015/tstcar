@@ -13,7 +13,8 @@ class MainPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
+      key: Key('dancelist'),
       title: 'Dance List',
       home: DanceListPage(),
     );
@@ -21,7 +22,7 @@ class MainPage extends StatelessWidget {
 }
 
 class DanceListPage extends StatefulWidget {
-  final List _steps = [];
+  const DanceListPage({Key? key}) : super(key: key);
 
   @override
   State<DanceListPage> createState() => _DanceListPageState();
@@ -45,6 +46,7 @@ class _DanceListPageState extends State<DanceListPage> {
     readJson();
   }
 
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'dance list',

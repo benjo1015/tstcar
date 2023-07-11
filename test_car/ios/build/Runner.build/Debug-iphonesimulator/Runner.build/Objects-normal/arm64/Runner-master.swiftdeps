@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e265c13f77c0276a7d9898991f21a7b382d3901be1bbebf2d9e61a2fa65d49e3"
+build_start_time: [1689084657, 179718017]
+build_end_time: [1689084657, 195783138]
+inputs:
+  "/Users/benjo/dev/tstcar/tstcar/test_car/ios/Runner/AppDelegate.swift": !private [1677068272, 0]

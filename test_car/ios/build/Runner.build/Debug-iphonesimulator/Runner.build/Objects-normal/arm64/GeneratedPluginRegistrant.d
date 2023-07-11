@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/benjo/dev/tstcar/tstcar/test_car/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/benjo/dev/tstcar/tstcar/test_car/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/benjo/dev/tstcar/tstcar/test_car/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
